@@ -1,0 +1,14 @@
+{
+  "provider": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "style": "natural",
+  "theme": "Generate an image of gray tabby cat hugging an otter with an orange scarf",
+  "prompt": "High-quality gallery artwork. Theme: Generate an image of gray tabby cat hugging an otter with an orange scarf.",
+  "revisedPrompt": "Create a gallery-quality artwork featuring a gray tabby cat sharing a friendly hug with a playful otter. The otter is wearing a bright orange scarf, adding a splash of color to the delightful scene. Let the cat's distinctive tabby stripes and the otter's sleek, streamlined body be emphasized. The backdrop should be subtle, not drawing attention away from the main subjects, making it perfect for a gallery display.",
+  "savedAt": "2026-01-13T08:35:45.046Z",
+  "image": {
+    "filename": "openai-dall-e-3-natural.png",
+    "path": "C:\\Users\\ADMIN\\Desktop\\Main\\AI\\AI Engineering Exercise\\Exercise 2\\images\\openai-dall-e-3-natural.png"
+  }
+}

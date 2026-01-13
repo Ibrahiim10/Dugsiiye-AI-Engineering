@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Image Variations Gallery</title>
+  <style>
+    body { font-family: system-ui, Arial, sans-serif; margin: 24px; }
+    h1 { margin: 0 0 10px; }
+    h2 { margin: 26px 0 10px; font-size: 18px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+    .card { border: 1px solid #ddd; border-radius: 12px; padding: 12px; background: #fff; }
+    img { width: 100%; height: auto; border-radius: 10px; display: block; }
+    .row { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 10px; }
+    .label { font-size: 14px; color: #222; word-break: break-word; }
+    a { font-size: 12px; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Gallery: All Variations</h1>
+  <p>Open this file in your browser.</p>
+
+  
+      <h2>Style Variations (dall-e-3)</h2>
+      <div class="grid">
+        
+          <div class="card">
+            <a href="./openai-dall-e-3-vivid.png" target="_blank" rel="noreferrer">
+              <img src="./openai-dall-e-3-vivid.png" alt="vivid" loading="lazy" />
+            </a>
+            <div class="row">
+              <div class="label">vivid</div>
+              <a href="./openai-dall-e-3-vivid.png.meta.json" target="_blank" rel="noreferrer">metadata</a>
+            </div>
+          </div>
+        
+          <div class="card">
+            <a href="./openai-dall-e-3-natural.png" target="_blank" rel="noreferrer">
+              <img src="./openai-dall-e-3-natural.png" alt="natural" loading="lazy" />
+            </a>
+            <div class="row">
+              <div class="label">natural</div>
+              <a href="./openai-dall-e-3-natural.png.meta.json" target="_blank" rel="noreferrer">metadata</a>
+            </div>
+          </div>
+        
+      </div>
+    
+      <h2>Size Variations (gpt-image-1)</h2>
+      <div class="grid">
+        
+          <div class="card">
+            <a href="./openai-square.png" target="_blank" rel="noreferrer">
+              <img src="./openai-square.png" alt="square" loading="lazy" />
+            </a>
+            <div class="row">
+              <div class="label">square</div>
+              <a href="./openai-square.png.meta.json" target="_blank" rel="noreferrer">metadata</a>
+            </div>
+          </div>
+        
+          <div class="card">
+            <a href="./openai-landscape.png" target="_blank" rel="noreferrer">
+              <img src="./openai-landscape.png" alt="landscape" loading="lazy" />
+            </a>
+            <div class="row">
+              <div class="label">landscape</div>
+              <a href="./openai-landscape.png.meta.json" target="_blank" rel="noreferrer">metadata</a>
+            </div>
+          </div>
+        
+          <div class="card">
+            <a href="./openai-portrait.png" target="_blank" rel="noreferrer">
+              <img src="./openai-portrait.png" alt="portrait" loading="lazy" />
+            </a>
+            <div class="row">
+              <div class="label">portrait</div>
+              <a href="./openai-portrait.png.meta.json" target="_blank" rel="noreferrer">metadata</a>
+            </div>
+          </div>
+        
+      </div>
+    
+</body>
+</html>

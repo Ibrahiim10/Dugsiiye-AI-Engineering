@@ -1,0 +1,14 @@
+{
+  "provider": "openai",
+  "model": "gpt-image-1",
+  "size": "1024x1024",
+  "style": null,
+  "theme": "Generate an image of gray tabby cat hugging an otter with an orange scarf",
+  "prompt": "High-quality gallery artwork. Theme: Generate an image of gray tabby cat hugging an otter with an orange scarf.",
+  "revisedPrompt": null,
+  "savedAt": "2026-01-13T08:36:26.922Z",
+  "image": {
+    "filename": "openai-square.png",
+    "path": "C:\\Users\\ADMIN\\Desktop\\Main\\AI\\AI Engineering Exercise\\Exercise 2\\images\\openai-square.png"
+  }
+}

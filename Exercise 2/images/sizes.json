@@ -1,0 +1,32 @@
+[
+  {
+    "model": "gpt-image-1",
+    "theme": "cyberpunk cityscape",
+    "prompt": "High-quality gallery artwork. Theme: cyberpunk cityscape. Composition optimized for square.",
+    "size": "1024x1024",
+    "orientation": "square",
+    "file": "openai_square_1024x1024.png",
+    "bytes": 2107197,
+    "createdAt": "2026-01-13T07:26:02.153Z"
+  },
+  {
+    "model": "gpt-image-1",
+    "theme": "cyberpunk cityscape",
+    "prompt": "High-quality gallery artwork. Theme: cyberpunk cityscape. Composition optimized for landscape.",
+    "size": "1536x1024",
+    "orientation": "landscape",
+    "file": "openai_landscape_1536x1024.png",
+    "bytes": 2879236,
+    "createdAt": "2026-01-13T07:26:59.875Z"
+  },
+  {
+    "model": "gpt-image-1",
+    "theme": "cyberpunk cityscape",
+    "prompt": "High-quality gallery artwork. Theme: cyberpunk cityscape. Composition optimized for portrait.",
+    "size": "1024x1536",
+    "orientation": "portrait",
+    "file": "openai_portrait_1024x1536.png",
+    "bytes": 2800793,
+    "createdAt": "2026-01-13T07:28:01.371Z"
+  }
+]

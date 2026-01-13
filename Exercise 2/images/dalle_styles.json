@@ -1,0 +1,24 @@
+[
+  {
+    "model": "dall-e-3",
+    "theme": "Man with suits",
+    "prompt": "High-quality gallery artwork. Theme: Man with suits. No text, no watermark.",
+    "size": "1024x1024",
+    "style": "vivid",
+    "file": "dalle3_vivid_1024x1024.png",
+    "bytes": 1867577,
+    "revised_prompt": "Generate an image of a high-quality gallery artwork. The theme of the artwork should be men in suits. The artwork should showcase men from different descents such as Caucasian, Hispanic, Black, Middle-Eastern, South Asian, and White, all wearing formal suits without any specific symbols or logos. There should be no text or watermark on the art piece.",
+    "createdAt": "2026-01-13T07:42:05.045Z"
+  },
+  {
+    "model": "dall-e-3",
+    "theme": "Man with suits",
+    "prompt": "High-quality gallery artwork. Theme: Man with suits. No text, no watermark.",
+    "size": "1024x1024",
+    "style": "natural",
+    "file": "dalle3_natural_1024x1024.png",
+    "bytes": 1557632,
+    "revised_prompt": "Create a high-quality image of an art gallery filled with majestic paintings. Each painting should depict men in suits, showcasing a variety of styles and expressions. The men should come from different descents such as Caucasian, Hispanic, Black, Middle-Eastern, and South Asian, promoting inclusivity. Each attire should embrace individuality, displaying a careful balance between traditional professionalism and stylish fancy. Make sure the gallery ambiance is enriching and welcoming. No textual elements should be present in this image, neither any form of watermark, to preserve the authenticity of the art pieces.",
+    "createdAt": "2026-01-13T07:42:22.602Z"
+  }
+]
